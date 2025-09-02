@@ -179,7 +179,7 @@ This will:
 
 ### 3) Run Notebook
 
-Open `notebooks/01_q1_2019_route_investment.ipynb` and run all cells.
+Open notebook -airline_project.ipynb and run it line by line . 
 
 
 ---
