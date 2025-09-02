@@ -214,16 +214,5 @@ Open `notebooks/01_q1_2019_route_investment.ipynb` and run all cells.
 * Auto‑generation of **geo maps** for top‑N routes
 
 
----
 
-## 🙋 FAQ
-
-**Q: Can I re‑run this on a different quarter?**
-A: Yes. Point `--flights/--tickets/--airports` to new CSVs; the pipeline is deterministic.
-
-**Q: How do I change the brand’s delay tolerance or investment?**
-A: Pass `--delay-threshold`, `--investment`, and `--weight-*` params to the CLI or notebook.
-
-**Q: Will early departures give negative delays?**
-A: They’re **clipped to 0** for scoring (treated as on‑time).
 
