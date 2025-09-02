@@ -1,4 +1,4 @@
-# Airline Route Investment Analysis (Q1 2019)
+# Airline Route Investment Analysis 
 
 **Goal:** Identify the five U.S. domestic **round‑trip** routes that best balance **on‑time performance** and **rapid recovery of a \$90 M aircraft investment**.
 
